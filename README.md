@@ -5,6 +5,7 @@ I’m Skafti from Iceland, and I am looking for work! I really enjoy learning la
       I consistently tweet about my progress. You can check it out at twitter.com/skaftisveins.
 - 💞️ I’m looking to collaborate on anything really
 - 📫 How to reach me skaftisveins@gmail.com
+- [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/skaftisveins.svg?style=social&label=Follow%20%40skaftisveins)](https://twitter.com/skaftisveins)
 
 [![skaftisveins's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaftisveins)](https://github.com/anuraghazra/github-readme-stats)
 
