@@ -10,7 +10,7 @@ I’m Skafti from Iceland, and I am looking for work! I really enjoy learning la
 
 [![skaftisveins's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaftisveins&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/), which is a 100 days of code course on udemy. In other words, 100 projects to my porfolio all in Python!
+- 🔭 I’m currently working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). 100 projects to my porfolio, all in Python!
 - 👀 I’m interested in Flutter, React and Python
 - 🌱 I’m currently learning Python 
       I consistently tweet about my progress. You can check out my twitter at twitter.com/skaftisveins.
