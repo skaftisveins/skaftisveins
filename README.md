@@ -1,4 +1,4 @@
-![I am looking for work!](https://i.ibb.co/PM273PS/skaftisveins.png)
+![I am looking for work!](https://i.ibb.co/XkQ71LQ/skaftisveins-1.png)
 
 ### Hi there 👋, skaftisveins
 #### I am looking for work!
