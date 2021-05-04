@@ -4,7 +4,7 @@
 #### I am looking for work!
 I’m Skafti from Iceland, and I am looking for work! I really enjoy learning languages and frameworks like Python and Flutter.
 
-- 🔭 I’m currently working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). 100 projects to my porfolio, all in Python!
+- 🔭 I’m currently working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). 100 projects to my Portfolio, all in Python!
 - 👀 I’m interested in Flutter, React and Python
 - 🌱 I’m currently learning Python 
       I consistently tweet about my progress. You can check out my twitter at [skaftisveins](https://twitter.com/skaftisveins).
