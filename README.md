@@ -6,7 +6,7 @@ I’m Skafti from Iceland! I really enjoy learning languages and frameworks like
 
 - 🔭 I’m currently working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). 100 projects to my Portfolio, all in Python!
 - 👀 I’m interested in Word Press, Flutter, React, Python
-- 🌱 I’m currently learning Python, Word Press 
+- 🌱 I’m currently learning Python, Word Press, cPanel, dns zones, linux and ethical hacking
       I used to consistently tweet about my progress. You can check out my twitter at [skaftisveins](https://twitter.com/skaftisveins).
 - 📫 How to reach me skaftisveins@gmail.com
 
