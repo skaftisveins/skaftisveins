@@ -6,7 +6,7 @@
 - 🔭 I was working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). 100 projects to my Portfolio, all in Python!
 - 👀 I’m interested in ethical hacking, it solutions, such as O365 and Google and coding
 - 💼 I’m currently working 9 to 5 all weekdays.
-- 🐦 I used to consistently tweet about my Python progress; until I started working at TACTICA. You can check out my twitter at [skaftisveins](https://twitter.com/skaftisveins).
+- 🐦 My 100 days of code, Python progress [skaftisveins](https://twitter.com/skaftisveins).
 - 📫 How to reach me skaftisveins@gmail.com
 
 [![skaftisveins's GitHub stats](https://github-readme-stats.vercel.app/api?username=skaftisveins&count_private=true&include_all_commits=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
