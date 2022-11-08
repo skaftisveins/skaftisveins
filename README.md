@@ -1,8 +1,7 @@
 ![I am looking for work!](https://i.ibb.co/XkQ71LQ/skaftisveins-1.png)
 
-### Hi there 👋, skaftisveins
+### Hey there 👋 I’m Skafti from Iceland!
 #### I am working at TACTICA in IT support
-Hey there, I’m Skafti from Iceland!
 
 - 🔭 I was working on [100 Days of code Pro Python Bootcamp](https://www.udemy.com/course/100-days-of-code/). 100 projects to my Portfolio, all in Python!
 - 👀 I’m interested in ethical hacking, it solutions, such as O365 and Google and coding
