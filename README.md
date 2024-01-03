@@ -1,4 +1,4 @@
-![I am looking for work!](https://i.ibb.co/XkQ71LQ/skaftisveins-1.png)
+<!--![I am looking for work!](https://i.ibb.co/XkQ71LQ/skaftisveins-1.png)-->
 
 ### Hey there 👋 I’m Skafti from Iceland!
 #### I am working at TACTICA in IT support
